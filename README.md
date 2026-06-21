@@ -1,5 +1,8 @@
 # About Me:
-Fourth-year Computer Science student specializing in AI and data science. <br>Former teaching assistant who’s passionate about sharing knowledge and collaborating to develop impactful tech solutions.<br><br>M.Sc in Computer Science at Uppsala University, Sweden expected June 2026.<br>B.Sc in Computer Science at Uppsala University, Sweden completed June 2024.
+Computer Science master’s graduate (M.Sc., June 2026) specializing in machine learning and data science, with additional experience
+in optimization problems, real-time systems, and software development. Recent work spans LLM agents, agent observability, and
+product analytics for AI-augmented software. Native Swedish speaker with strong proficiency in both written and spoken English,
+focused on building and evaluating new AI/ML technologies.
 
 
 ## 🌐 Socials:
